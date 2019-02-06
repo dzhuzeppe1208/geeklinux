@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 HELLO FROM BRANCH RAZRABOTKA
+
+=======
+
+HELLO FROM BRANCH TESTING
+>>>>>>> testing
